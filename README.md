@@ -1,4 +1,7 @@
-# Instructions for Docker 
+# Docker-ROS-maze-solver
+https://github.com/user-attachments/assets/daa423ce-6ee7-41fa-a90d-7b1e7f1087bb
+
+## Instructions for Docker 
 
 The following readme gives a short introduction on how to use the docker container on Linux and on Windows.   
 Note that it is not possible to communicate with other hosts (e.g. Turtlebot) via wifi nor lan if you use docker on Windows.
